@@ -1,0 +1,12 @@
+2022/10/12
+
+[한주간의 학습 및 학습목표]
+딥러닝
+프로젝트
+
+[Today - 학습내용] 
+flask 활용 웹서비스 구현
+
+[Todo]
+github update
+jupyter 준비
