@@ -1,0 +1,16 @@
+2022/10/24
+
+[한주간의 학습 및 학습목표]
+머신러닝
+프로젝트
+
+[Today - 학습내용] 프로젝트 수행
+지난주 피드백
+앙상븐 기법 기본 LightGBM
+교차 검증 알아보기
+GRIDSEARCh 알아보기
+AMEX 대회 캐글 노트북 분석
+
+[Todo]
+github update
+jupyter 준비
