@@ -1,0 +1,15 @@
+2022/10/31
+
+[한주간의 학습 및 학습목표]
+머신러닝
+프로젝트
+
+[Today - 학습내용] 프로젝트 수행
+github web page 만들기
+전체 리뷰
+파이프라인 실습
+프로젝트 수행
+
+[Todo]
+github update
+jupyter notebook 준비
