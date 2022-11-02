@@ -1,0 +1,12 @@
+2022/11/02
+
+[한주간의 학습 및 학습목표]
+머신러닝
+프로젝트
+
+[Today - 학습내용] 프로젝트 수행
+프로젝트 수행 및 발표
+
+[Todo]
+github update
+jupyter notebook 준비
