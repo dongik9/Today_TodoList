@@ -1,0 +1,14 @@
+2022/11/03
+
+[한주간의 학습 및 학습목표]
+머신러닝
+프로젝트
+
+[Today - 학습내용]
+automl에 대해 알아보기
+automl 실습해보기
+github 이력서 및 프로젝트 보완
+
+[Todo]
+github update
+jupyter notebook 준비
