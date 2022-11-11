@@ -1,0 +1,15 @@
+2022/11/04
+
+[한주간의 학습 및 학습목표]
+머신러닝
+프로젝트
+
+[Today - 학습내용]
+RNN 알아보기
+추천시스템 알아보기
+github 이력서 나눠보기
+마지막 마무리
+
+[Todo]
+github update
+jupyter notebook 준비
